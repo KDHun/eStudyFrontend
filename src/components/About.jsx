@@ -5,10 +5,9 @@ const About = () => (
     <h1 className="text-center info-tile card-header py-4">eClassroom</h1>
     <div className="card-body">
       <p>
-        This app is a part of our 5th semester mini project. We created an
-        e-classroom app where a teacher can post material and assignments. The
-        assignments are in the form of a quiz consisting of multiple choice
-        questions. The students can access the material and complete
+        This app is a part of our 6th semester software engineering project. We created an
+        e-classroom app where a teacher can post material and assignments. 
+        The students can access the material and complete
         assignments, students can also ask questions in the discussion section
         and either teacher or student can answer them, then the student who
         asked the question can mark it as solved if his doubt is cleared.
@@ -36,13 +35,6 @@ const About = () => (
         the state on our frontend application and react-router to manage the
         routes on client side because the application is an SPA (Single Page
         Application).
-      </p>
-      <h3>ReactNative</h3>
-      <p className="mb-0">
-        We used ReactNative for mobile application. ReactNative allows the
-        developer to create cross platform mobile applications using React.js.
-        It is created by Facebook and is one of the most popular option to
-        create a cross platform applications.
       </p>
     </div>
   </div>
